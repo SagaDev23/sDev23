@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSS-23-DEV&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/FredSteady/">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FFredSteady&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/>
   </a>
